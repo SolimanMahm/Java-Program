@@ -17,10 +17,23 @@ Project - Week 1
 - Users can adopt a pet, feed it, play with it, and check its status.
 - The game tracks the pet's hunger and happiness levels, and it ends if these levels drop to critical values.
 
-  ## 🤳 Menue
+  ## 🤳 Menu
 
 - **Adopt a Pet:** `Start` the game by adopting a pet.
 - **Feed the Pet:** `Increase` the pet's `hunger level` by feeding it.
 - **Play with the Pet:** `Increase` the pet's `happiness level` by playing with it.
 - **Check Status:** `View` the current `hunger and happiness levels` of the pet.
 - **End Game:** `End the game `and `view` the `final status` of the pet.
+
+<hr>
+
+## ✨ Test
+![image](https://github.com/user-attachments/assets/61311c48-7a6f-460b-bff8-8edaa210c173)
+![image](https://github.com/user-attachments/assets/43697bfb-d521-4a99-8716-de6131932bc6)
+![image](https://github.com/user-attachments/assets/556c95ba-52e1-4e2d-b61e-2bde30fa68d7)
+![image](https://github.com/user-attachments/assets/fbc3de9b-2f58-4a1c-93dc-9c6eb91b8f60)
+
+## 🚨 Contributing
+
+- Contributions are welcome 💜
+- If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
