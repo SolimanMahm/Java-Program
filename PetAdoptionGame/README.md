@@ -4,10 +4,10 @@ Project - Week 1
      <a href="https://api.visitorbadge.io/api/visitors?path=ChatterBox-AI-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=ChatterBox-AI-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/mustafa-sayed11/" target="_blank">
+    <a href="https://www.linkedin.com/in/soliman-mahmoud-2a844125b/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="soliiimahmoud70@gmail.com">
+  <a href="mailto:soliiimahmoud70@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </div>
 
