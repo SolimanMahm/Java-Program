@@ -13,25 +13,25 @@ Project - Week 1
 
 ## 🚀 Getting Started
 
-- The Pet Adoption Game is a `console-based application` that simulates the experience of adopting and taking care of a pet. 
-- Users can adopt a pet, feed it, play with it, and check its status.
-- The game tracks the pet's hunger and happiness levels, and it ends if these levels drop to critical values.
+- The Transaction Management System is designed to assist users in managing their financial transactions through a `command-line interface`. 
+- It allows users to `enter transaction details`, `view and sort transactions`, and `analyze their financial data`. 
 
   ## 🤳 Menu
 
-- **Adopt a Pet:** `Start` the game by adopting a pet.
-- **Feed the Pet:** `Increase` the pet's `hunger level` by feeding it.
-- **Play with the Pet:** `Increase` the pet's `happiness level` by playing with it.
-- **Check Status:** `View` the current `hunger and happiness levels` of the pet.
-- **End Game:** `End the game `and `view` the `final status` of the pet.
+- **Input Transactions:** `Record details` of new financial transactions.
+- **View Transactions:** `Display` a list of all transactions with optional `sorting`.
+- **View Summary:** `Show` a financial summary including total `income`, `expenses`, and `balance`.
+- **Get Insights:** `Offer insights` into `spending` habits by `category`.
 
 <hr>
 
 ## ✨ Test
-![image](https://github.com/user-attachments/assets/61311c48-7a6f-460b-bff8-8edaa210c173)
-![image](https://github.com/user-attachments/assets/43697bfb-d521-4a99-8716-de6131932bc6)
-![image](https://github.com/user-attachments/assets/556c95ba-52e1-4e2d-b61e-2bde30fa68d7)
-![image](https://github.com/user-attachments/assets/fbc3de9b-2f58-4a1c-93dc-9c6eb91b8f60)
+![image](https://github.com/user-attachments/assets/c32350e9-34f3-49df-8778-019144bb4289)
+![image](https://github.com/user-attachments/assets/e10532f2-0057-4c9c-823f-a3dd0de39f62)
+![image](https://github.com/user-attachments/assets/dfb7364c-87bf-42d4-a693-d362847d22d5)
+
+
+
 
 ## 🚨 Contributing
 
