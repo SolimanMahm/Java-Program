@@ -1,5 +1,5 @@
-# Pet Adoption Game
-Project - Week 1
+# Personal Finance Tracker
+Project - Week 2
 <div align="start">
      <a href="https://api.visitorbadge.io/api/visitors?path=ChatterBox-AI-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=ChatterBox-AI-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
@@ -20,7 +20,7 @@ Project - Week 1
 
 - **Input Transactions:** `Record details` of new financial transactions.
 - **View Transactions:** `Display` a list of all transactions with optional `sorting`.
-- **View Summary:** `Show` a financial summary including total `income`, `expenses`, and `balance`.
+- **View Summary:** `Show` a financial `summary` including total `income`, `expenses`, and `balance`.
 - **Get Insights:** `Offer insights` into `spending` habits by `category`.
 
 <hr>
